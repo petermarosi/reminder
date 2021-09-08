@@ -1,0 +1,17 @@
+[
+    {
+        "emote" : ":one:",
+        "emoteUnicodeIndex" : 1,
+        "text" : "Daily1"
+    },
+    {
+        "emote" : ":two:",
+        "emoteUnicodeIndex" : 2,
+        "text" : "Daily2"
+    },
+    {
+        "emote" : ":three:",
+        "emoteUnicodeIndex" : 3,
+        "text" : "Daily3"
+    }
+]

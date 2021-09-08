@@ -1,0 +1,27 @@
+{
+    "subscription": {
+        "title": "Subscription",
+        "color": "0x00AE86",
+        "description": "Subscribe to dailies"
+    },
+    "checkIn": {
+        "title": "CheckIn",
+        "color": "0x00AE86",
+        "description": "Check in the already done dailies"
+    },
+    "install": {
+        "title": "Install",
+        "color": "0x00AE86",
+        "description": "Installing",
+        "fields": [
+            {
+                "flag": "MANAGE_CHANNELS",
+                "text": "Manage channels"
+            },
+            {
+                "flag": "MANAGE_ROLES",
+                "text": "Manage roles"
+            }
+        ]
+    }
+}

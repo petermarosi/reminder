@@ -1,0 +1,15 @@
+{
+    "channels": {
+        "bot": {
+            "name": "test-bot-channel"
+        }
+    },
+    "roles": {
+        "bot": {
+            "name": "test-bot-role"
+        },
+        "user": {
+            "name": "test-user-role"
+        }
+    }
+}
